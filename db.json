@@ -1,69 +1,8 @@
 {
   "users": [
-    {
-      "id": "CIcwcgXV2HNPBns2fNsx_",
-      "fullName": "Suraj verma",
-      "email": "sv6971525@gmail.com",
-      "skills": "react,javascript,tailwind",
-      "bio": "frontend developer"
-    },
-    {
-      "id": "oB-0sQVJmFeV3aBNzLLMI",
-      "fullName": "Rachit Gandhi",
-      "email": "john.doe@email.com",
-      "role": "Full Stack Developer",
-      "skills": "react, tailwind, css",
-      "bio": "frontend"
-    },
-    {
-      "id": "r9TY-om9fg1ZFl5c6LdjL",
-      "fullName": "diyanshu",
-      "email": "admin@gmail.com",
-      "role": "Backend Developer",
-      "skills": "react, javascript, css",
-      "location": "Remote",
-      "bio": "ddsvgsdvg fhasfuhsaf fnslkfhsla lknksf",
-      "phone": "",
-      "website": "",
-      "joinDate": "2025",
-      "rating": 4.657795874811847
-    }
+   
   ],
   "projects": [
-    {
-      "id": "2bjVVTGU0LrT0wcy5OHvn",
-      "title": "Devconnect website",
-      "description": "developers platform",
-      "technologies": "react,redux",
-      "ownerId": "CIcwcgXV2HNPBns2fNsx_"
-    },
-    {
-      "id": "s68xxEKyKOwoDJMukpTPv",
-      "title": "food recipe",
-      "description": "recipe platform",
-      "technologies": "react,redux",
-      "ownerId": "oB-0sQVJmFeV3aBNzLLMI"
-    },
-    {
-      "id": "kupI3iBwM29ZtuBDgU4pG",
-      "title": "e-commerce website",
-      "description": "platform to buy clothes",
-      "technologies": "react,redux",
-      "ownerId": "CIcwcgXV2HNPBns2fNsx_"
-    },
-    {
-      "id": "NnGhZqrl1xXtkq0rT_VWE",
-      "title": "opensource hub",
-      "description": "platform for open source ",
-      "technologies": "react,redux,tailwind",
-      "ownerId": "oB-0sQVJmFeV3aBNzLLMI"
-    },
-    {
-      "id": "Ipj1KIyeo0NEHW_9Xbtxs",
-      "title": "insta",
-      "description": "social platform",
-      "technologies": "react,redux,tailwind",
-      "ownerId": "CIcwcgXV2HNPBns2fNsx_"
-    }
+    
   ]
 }
